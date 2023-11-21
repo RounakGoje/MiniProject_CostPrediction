@@ -1,0 +1,2 @@
+# MiniProject_CostPrediction
+MiniProject_CostPrediction using linear regression
