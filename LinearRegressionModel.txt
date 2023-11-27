@@ -1,0 +1,108 @@
+€csklearn.pipeline
+Pipeline
+q )q}q(X   stepsq]q(X   columntransformerqcsklearn.compose._column_transformer
+ColumnTransformer
+q)q }q(X   transformersq	]q
+X
+   onehotencoderq
+csklearn.preprocessing._encoders
+OneHotEncoder
+q)q
+}q(X
+   categoriesq]q(cnumpy.core.multiarray
+_reconstruct
+qcnumpy
+ndarray
+qK …qCbq‡qRq(KKş…qcnumpy
+dtype
+qX   O8qK K‡qRq(KX   |qNNNJÿÿÿÿJÿÿÿÿK?tqb‰]q(X   Audi A3 CabrioletqX
+   Audi A4 1.8q X
+   Audi A4 2.0q!X
+   Audi A6 2.0q"X    Audi A8q#X
+   Audi Q3 2.0q$X
+   Audi Q5 2.0q%X    Audi Q7q&X   BMW 3 Seriesq'X   BMW 5 Seriesq(X   BMW 7 Seriesq)X   BMW X1q*X   BMW X1 sDrive20dq+X   BMW X1 xDrive20dq,X   Chevrolet Beatq-X   Chevrolet Beat Dieselq.X   Chevrolet Beat LSq/X   Chevrolet Beat LTq0X   Chevrolet Beat PSq1X   Chevrolet Cruze LTZq2X   Chevrolet Enjoyq3X   Chevrolet Enjoy 1.4q4X   Chevrolet Sail 1.2q5X   Chevrolet Sail UVAq6X   Chevrolet Sparkq7X   Chevrolet Spark 1.0q8X   Chevrolet Spark LSq9X   Chevrolet Spark LTq:X   Chevrolet Tavera LSq;X   Chevrolet Tavera Neoq<X
+   Datsun GO Tq=X   Datsun Go Plusq>X   Datsun Redi GOq?X   Fiat Linea Emotionq@X   Fiat Petra ELXqAX   Fiat Punto EmotionqBX   Force Motors ForceqCX   Force Motors OneqDX
+   Ford EcoSportqEX   Ford EcoSport AmbienteqFX   Ford EcoSport TitaniumqGX   Ford EcoSport TrendqHX   Ford Endeavor 4x4qIX
+   Ford FiestaqJX   Ford Fiesta SXiqKX	   Ford FigoqLX   Ford Figo DieselqMX   Ford Figo DuratorqqNX   Ford Figo PetrolqOX   Ford Fusion 1.4qPX
+   Ford Ikon 1.3qQX
+   Ford Ikon 1.6qRX   Hindustan Motors AmbassadorqSX   Honda AccordqTX
+   Honda AmazeqUX   Honda Amaze 1.2qVX   Honda Amaze 1.5qWX
+   Honda BrioqXX   Honda Brio VqYX
+   Honda Brio VXqZX
+   Honda Cityq[X   Honda City 1.5q\X
+   Honda City SVq]X
+   Honda City VXq^X
+   Honda City ZXq_X   Honda Jazz Sq`X
+   Honda Jazz VXqaX
+   Honda MobilioqbX   Honda Mobilio SqcX
+   Honda WR VqdX   Hyundai AccentqeX   Hyundai Accent ExecutiveqfX   Hyundai Accent GLEqgX   Hyundai Accent GLXqhX
+   Hyundai CretaqiX   Hyundai Creta 1.6qjX   Hyundai Elantra 1.8qkX   Hyundai Elantra SXqlX   Hyundai Elite i20qmX
+   Hyundai EonqnX
+   Hyundai Eon DqoX   Hyundai Eon EraqpX   Hyundai Eon MagnaqqX   Hyundai Eon SportzqrX   Hyundai Fluidic VernaqsX   Hyundai GetzqtX   Hyundai Getz GLEquX   Hyundai Getz PrimeqvX   Hyundai Grand i10qwX   Hyundai SantroqxX   Hyundai Santro AEqyX   Hyundai Santro XingqzX   Hyundai Sonata Transformq{X
+   Hyundai Vernaq|X   Hyundai Verna 1.4q}X   Hyundai Verna 1.6q~X   Hyundai Verna FluidicqX   Hyundai Verna Transformq€X   Hyundai Verna VGTqX   Hyundai Xcent Baseq‚X   Hyundai Xcent SXqƒX
+   Hyundai i10q„X   Hyundai i10 Eraq…X   Hyundai i10 Magnaq†X   Hyundai i10 Sportzq‡X
+   Hyundai i20qˆX   Hyundai i20 Activeq‰X   Hyundai i20 AstaqŠX   Hyundai i20 Magnaq‹X   Hyundai i20 SelectqŒX   Hyundai i20 SportzqX   Jaguar XE XEqX
+   Jaguar XF 2.2qX   Jeep Wrangler UnlimitedqX   Land Rover Freelanderq‘X   Mahindra Bolero DIq’X   Mahindra Bolero Powerq“X   Mahindra Bolero SLEq”X   Mahindra Jeep CL550q•X   Mahindra Jeep MMq–X   Mahindra KUV100q—X   Mahindra KUV100 K8q˜X   Mahindra Loganq™X   Mahindra Logan DieselqšX   Mahindra Quanto C4q›X   Mahindra Quanto C8qœX   Mahindra ScorpioqX   Mahindra Scorpio 2.6qX   Mahindra Scorpio LXqŸX   Mahindra Scorpio S10q X   Mahindra Scorpio S4q¡X   Mahindra Scorpio SLEq¢X   Mahindra Scorpio SLXq£X   Mahindra Scorpio VLXq¤X   Mahindra Scorpio Vlxq¥X   Mahindra Scorpio Wq¦X   Mahindra TUV300 T4q§X   Mahindra TUV300 T8q¨X   Mahindra Thar CRDeq©X   Mahindra XUV500qªX   Mahindra XUV500 W10q«X   Mahindra XUV500 W6q¬X   Mahindra XUV500 W8q­X   Mahindra Xylo D2q®X   Mahindra Xylo E4q¯X   Mahindra Xylo E8q°X   Maruti Suzuki 800q±X   Maruti Suzuki Aq²X   Maruti Suzuki Altoq³X   Maruti Suzuki Balenoq´X   Maruti Suzuki CelerioqµX   Maruti Suzuki Ciazq¶X   Maruti Suzuki Dzireq·X   Maruti Suzuki Eecoq¸X   Maruti Suzuki Ertigaq¹X   Maruti Suzuki EsteemqºX   Maruti Suzuki Estiloq»X   Maruti Suzuki Marutiq¼X   Maruti Suzuki Omniq½X   Maruti Suzuki Ritzq¾X   Maruti Suzuki Sq¿X   Maruti Suzuki SX4qÀX   Maruti Suzuki StingrayqÁX   Maruti Suzuki SwiftqÂX   Maruti Suzuki VersaqÃX   Maruti Suzuki VitaraqÄX   Maruti Suzuki WagonqÅX   Maruti Suzuki ZenqÆX   Mercedes Benz AqÇX   Mercedes Benz BqÈX   Mercedes Benz CqÉX   Mercedes Benz GLAqÊX
+   Mini Cooper SqËX   Mitsubishi Lancer 1.8qÌX   Mitsubishi Pajero SportqÍX   Nissan Micra XLqÎX   Nissan Micra XVqÏX   Nissan SunnyqĞX   Nissan Sunny XLqÑX   Nissan Terrano XLqÒX   Nissan X TrailqÓX   Renault DusterqÔX   Renault Duster 110qÕX   Renault Duster 110PSqÖX   Renault Duster 85q×X   Renault Duster 85PSqØX   Renault Duster RxLqÙX   Renault KwidqÚX   Renault Kwid 1.0qÛX   Renault Kwid RXTqÜX   Renault Lodgy 85qİX   Renault Scala RxLqŞX
+   Skoda FabiaqßX   Skoda Fabia 1.2LqàX   Skoda Fabia ClassicqáX
+   Skoda LauraqâX   Skoda Octavia ClassicqãX   Skoda Rapid EleganceqäX   Skoda Superb 1.8qåX   Skoda Yeti AmbitionqæX   Tata Aria PleasureqçX   Tata Bolt XMqèX
+   Tata IndicaqéX   Tata Indica V2qêX   Tata Indica eV2qëX   Tata Indigo CSqìX   Tata Indigo LSqíX   Tata Indigo LXqîX   Tata Indigo MarinaqïX   Tata Indigo eCSqğX
+   Tata ManzaqñX   Tata Manza AquaqòX   Tata Manza AuraqóX   Tata Manza ELANqôX	   Tata NanoqõX   Tata Nano CxqöX   Tata Nano GenXq÷X   Tata Nano LXqøX   Tata Nano LxqùX   Tata Sumo GoldqúX   Tata Sumo GrandeqûX   Tata Sumo VictaqüX   Tata Tiago RevotorqqıX   Tata Tiago RevotronqşX   Tata Tigor RevotronqÿX   Tata Venture EXr   X   Tata Vista Quadrajetr  X   Tata Zest Quadrajetr  X   Tata Zest XEr  X   Tata Zest XMr  X   Toyota Corollar  X   Toyota Corolla Altisr  X   Toyota Corolla H2r   X   Toyota Etiosr  X   Toyota Etios Gr	  X   Toyota Etios GDr
+  X   Toyota Etios Livar
+  X   Toyota Fortunerr  X   Toyota Fortuner 3.0r
+  X   Toyota Innova 2.0r  X   Toyota Innova 2.5r  X
+   Toyota Qualisr  X   Volkswagen Jetta Comfortliner  X   Volkswagen Jetta Highliner  X   Volkswagen Passat Dieselr  X   Volkswagen Polor  X   Volkswagen Polo Comfortliner  X   Volkswagen Polo Highliner  X   Volkswagen Polo Highline1.2Lr  X   Volkswagen Polo Trendliner  X   Volkswagen Vento Comfortliner  X   Volkswagen Vento Highliner  X   Volkswagen Vento Konektr  X   Volvo S80 Summumr  etr  bhhK …r  h‡r  Rr   (KK…r!  h‰]r"  (X   Audir#  X   BMWr$  X	   Chevroletr%  X   Datsunr&  X   Fiatr'  X   Forcer(  X   Fordr)  X	   Hindustanr*  X   Hondar+  X    Hyundair,  X   Jaguarr-  X   Jeepr.  X   Landr/  X   Mahindrar0  X   Marutir1  X   Mercedesr2  X   Minir3  X
+   Mitsubishir4  X   Nissanr5  X    Renaultr6  X   Skodar7  X   Tatar8  X   Toyotar9  X
+   Volkswagenr:  X   Volvor;  etr<  bhhK …r=  h‡r>  Rr?  (KK…r@  h‰]rA  (X   DieselrB  X   LPGrC  X   PetrolrD  etrE  beX   sparserF  ˆX   dtyperG  cnumpy
+float64
+rH  X   handle_unknownrI  X   errorrJ  X   droprK  NX   _sklearn_versionrL  X   0.22rM  ub]rN  (X   namerO  X    companyrP  X	   fuel_typerQ  e‡rR  aX	   remainderrS  X
+   passthroughrT  X   sparse_thresholdrU  G?Ó333333X   n_jobsrV  NX   transformer_weightsrW  NX    verboserX  ‰X   _feature_names_inrY  hhK …rZ  h‡r[  Rr\  (KK…r]  h‰]r^  (X   namer_  X    companyr`  X   yearra  X
+   kms_drivenrb  X	   fuel_typerc  etrd  bX   _columnsre  ]rf  jN  aX
+   _df_columnsrg  cpandas.core.indexes.base
+_new_Index
+rh  cpandas.core.indexes.base
+Index
+ri  }rj  (X   datark  j\  jO  Nu†rl  Rrm  X
+   _n_featuresrn  KX
+   _remainderro  jS  jT  ]rp  (KKe‡rq  X   sparse_output_rr  cnumpy.core.multiarray
+scalar
+rs  hX   b1rt  K K‡ru  Rrv  (KhNNNJÿÿÿÿJÿÿÿÿK trw  bCrx  †ry  Rrz  X
+   transformers_r{  ]r|  (h
+h)r}  }r~  (h]r  (hhK …r€  h‡r  Rr‚  (KKş…rƒ  h‰]r„  (hh h!h"h#h$h%h&h'h(h)h*h+h,h-h.h/h0h1h2h3h4h5h6h7h8h9h:h;h<h=h>h?h@hAhBhChDhEhFhGhHhIhJhKhLhMhNhOhPhQhRhShThUhVhWhXhYhZh[h\h]h^h_h`hahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh{h|h}h~hh€hh‚hƒh„h…h†h‡hˆh‰hŠh‹hŒhhhhh‘h’h“h”h•h–h—h˜h™hšh›hœhhhŸh h¡h¢h£h¤h¥h¦h§h¨h©hªh«h¬h­h®h¯h°h±h²h³h´hµh¶h·h¸h¹hºh»h¼h½h¾h¿hÀhÁhÂhÃhÄhÅhÆhÇhÈhÉhÊhËhÌhÍhÎhÏhĞhÑhÒhÓhÔhÕhÖh×hØhÙhÚhÛhÜhİhŞhßhàháhâhãhähåhæhçhèhéhêhëhìhíhîhïhğhñhòhóhôhõhöh÷høhùhúhûhühıhşhÿj   j  j  j  j  j  j  j   j  j	  j
+  j
+  j  j
+  j  j  j  j  j  j  j  j  j  j  j  j  j  j  j  etr…  bhhK …r†  h‡r‡  Rrˆ  (KK…r‰  h‰]rŠ  (j#  j$  j%  j&  j'  j(  j)  j*  j+  j,  j-  j.  j/  j0  j1  j2  j3  j4  j5  j6  j7  j8  j9  j:  j;  etr‹  bhhK …rŒ  h‡r  Rr  (KK…r  h‰]r  (jB  jC  jD  etr‘  bejF  ˆjG  jH  jI  jJ  jK  NX
+   categories_r’  ]r“  (hhK …r”  h‡r•  Rr–  (KKş…r—  h‰]r˜  (hh h!h"h#h$h%h&h'h(h)h*h+h,h-h.h/h0h1h2h3h4h5h6h7h8h9h:h;h<h=h>h?h@hAhBhChDhEhFhGhHhIhJhKhLhMhNhOhPhQhRhShThUhVhWhXhYhZh[h\h]h^h_h`hahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh{h|h}h~hh€hh‚hƒh„h…h†h‡hˆh‰hŠh‹hŒhhhhh‘h’h“h”h•h–h—h˜h™hšh›hœhhhŸh h¡h¢h£h¤h¥h¦h§h¨h©hªh«h¬h­h®h¯h°h±h²h³h´hµh¶h·h¸h¹hºh»h¼h½h¾h¿hÀhÁhÂhÃhÄhÅhÆhÇhÈhÉhÊhËhÌhÍhÎhÏhĞhÑhÒhÓhÔhÕhÖh×hØhÙhÚhÛhÜhİhŞhßhàháhâhãhähåhæhçhèhéhêhëhìhíhîhïhğhñhòhóhôhõhöh÷høhùhúhûhühıhşhÿj   j  j  j  j  j  j  j   j  j	  j
+  j
+  j  j
+  j  j  j  j  j  j  j  j  j  j  j  j  j  j  j  etr™  bhhK …rš  h‡r›  Rrœ  (KK…r  h‰]r  (j#  j$  j%  j&  j'  j(  j)  j*  j+  j,  j-  j.  j/  j0  j1  j2  j3  j4  j5  j6  j7  j8  j9  j:  j;  etrŸ  bhhK …r   h‡r¡  Rr¢  (KK…r£  h‰]r¤  (jB  jC  jD  etr¥  beX	   drop_idx_r¦  NjL  jM  ubjN  ‡r§  jS  jT  jp  ‡r¨  ejL  jM  ub†r©  X   linearregressionrª  csklearn.linear_model._base
+LinearRegression
+r«  )r¬  }r­  (X
+   fit_interceptr®  ˆX	   normalizer¯  ‰X   copy_Xr°  ˆjV  NX   coef_r±  hhK …r²  h‡r³  Rr´  (KM…rµ  hX   f8r¶  K K‡r·  Rr¸  (KX   <r¹  NNNJÿÿÿÿJÿÿÿÿK trº  b‰Bà  úİú\Ö8A’÷ƒÉbw#Á÷œåÏâÆı@×E]Á¯>A“»İë% Á‹Q4Ö¯ä@$­TËóë+A"#Ñ—.ÁŒL¾ú¡w	ÁVœ)$féÀsmcİg"Aùg¼/?¬ğÀ        ÆpÎ&óaö@’Ú}ã¼ ÁŠÊãI^yÁî‹ƒ€„/õÀ1flãøÀï–‘]ÙÀ`éÇø-Xü@        ŠÜBñO(ÓÀäŸí)á ë@TX—=–uÚÀ!Ñ€"\ïÀv]Qñâ7ùÀv¡ ï)JóÀÉ“2ñÀ2¸ÁZXrâ@LÃª¥ÅAıÈ:Á‚®ÇD=øÀ&Ø'Ál¼^ÊQúÀ†ş,ü¬ Áv@äpãÁ·ÙóÍ!èôÀf£&çJÄãÀ#ˆÉB_ïüÀ†4æ¤iæ	A7?HçÏÖÀ†÷ÄUïÊÀÌ¹pî@AAnÜeG¶ÁJ¡4—–U Á¯;`ê•›Á¤ï¶ÜÉÎÁùøLF¤„Á”DÈjw
+Á®©½<êÁ"~
+hœÁä|´JÁ‹ÕGğØíÀÍ«õ•©ûÀ™‡YHùÀvŸmã‹“îÀè/ärD Á%œÆßx) Á“Ø¸RşÀx Ú(8
+ÒÀòºø§ıù@SòõFUf×ÀâäLtÎAG j”ºAf¾u`ÁOÈœÑçíşÀ¹™8Â¿Ã@ş·]°´§@ç·§Ò×ÀÅ™­–ÙbâÀ        …ü»ÍôÀ'JE¡‹>÷À
+¯ıG’¢ùÀ’Tu…ÒYAú»ÌEM"Aø¯P£g AÉÎ·A³ëš´­Öó@ê°ö
+ ¢ÁåUh<šÁ
+ÂEÏıÁnyúk”ÁU
+õfpÁ%d úòÀö@V?%|aQêÀ\ƒW%36úÀªdw—Ü¨ÁU'úmı6ÊÀüDóş›êÀã\cÀTÿÀÿtKF˜÷À©1¥*ÈšÁH>h ]Kú@ §ŠsOĞ@/rVœI	A­”?Èì@…÷¤sb	ñÀt9¦®p¡öÀ        >yÈ;ï¯À7û{ôêÀO}, ÀÈıÀ•?kàÉ®ÀÀ˜´uºõÀÀtÚÍêuĞ@iKká7 AKÃA*¬²@}bèÿšIìÀæ± aÖ¯Àq
+M0`ŸÁ“].½ÓX*A5F¡däA[û2J»ó@”¶„$A]ùîaÁ        ­º ¢fóÁßÛÿ‹6ÆÁ·µÊ`!ôÀiN@Gì Á#·µTÇöÀM8&'zRÁĞlşlcÁ{(İoj'ÁÎE3Ä‡FÁ"f"‡ÄbAÅsHí‡8şÀ/<áôÀÎâ¯ j½¶@ˆ”˜e A˜K¢ó]ĞÀ 
+[„¡ãôÀg/[*T÷@tüj^>ğ Ac‹şºÁùÑ˜½£Ã@@©4~oA7É«¶±Aä{ÍßZ®Aù¼²;"A{¸KõŠfè@‚_~YAT¶¾m>ôÀ"2²€wôÀ» Ûo—öÀ‹ H
+@ñàÀŠt`Â4‹ûÀï<J˜VÁ£`D8ü@t—%^o_ Á¼¦ŒfÖAş…jvCÙ»@fŒÙÿaRùÀÇuYèT¨	AÁµlş ÁZ\D˜&tşÀ+ÏëÈ—CÄÀÏJ¿GkÁ.(b“¤ïÀßX±óaxAÌ[‰÷@
+â<ÀjğÀ´| ×ëÀ³÷U*€íÀ îÕ A¶}p„ôÏüÀíëçNñÀ`/bˆ
+A        ôî¨^ÇÁ~jè¹¥$A µD0ÄØ!A÷ónR!Áæ+"uA$Aşº~
+rB ÁË˜Ğ§şõÁ        vØèòW
+Á        öS¥ñ— AäQ+
+'ê@æGà.
+é@SNA=Kãó@X7ÎQƒë@­iO-éàÀË?°™Äö@sü}€U
+Á›Ë,i]	Á{„(pÁõJ4”óö A+(ˆç/ıúÀ'5OŞ(”Á¸–[< äÁ8šu¸•ûÀfôtë7ÌÀ>IGØ$©ıÀS¿~=çÀÈJi
+Agh™
+áõ@        vâ±wÃlA„–ÃanŞ@ØU÷	×’ÛÀP WföÁ[ˆL™ ıÀ        5şíäúÀ•
+yC Aÿ3çß‘!èÀ'È,¿çÁ        sY:=eşôÀ ´jK¯³Ñ@Cq¥ô(Á        tSçıÀ¸W
+‡P©ıÀ€`ÏNûÀµˆÑlJßÄ@
+ÅÿİÖãÀë˜:*“ğ@VŞbrÓ0
+A‡ØML÷@9v‘UzAfŸUõ™ÁÂÎ©±½/ñÀ¸JÀ˜Â Á8Uı„ò@n1¢âöÀ        8sA‚UÁ^a•ô—Ó Áµ¿İTÁêƒªƒ¬ÁJVR!cuÁˆ½QívrÁ^fK-¨
+ A£
+“vö(A†$r˜5í@|9û¶+Aâ!œ÷8` ÁjñfÚê¢ì@t¶
+¼A        H)4rÈ Á¢. H2¤ùÀ        °;!*C¨åÀª;”>ÁÔ§f5ÈÁÄT$‘O¡A²_H§éËÁÑ+ëS AáÜ>äjÑ%AXIº‚”TAB1Dÿ¿Á©êF¡@Á¦Îøey\Áw+‡AGÊşÀİ)w·ëÁ‹ÕGğØíÀw İï™Á5ø)…Á¼èƒ¥1A[û2J»ó@”¶„$A‘á·ªÄÁÿÇW<úÁÔ>ny#$ A µD0ÄØ!Aä¦q¹y÷@Hus‡+wÁp†K'?Á=ÈÈnbÁäşK8Ád-SmÙÁƒg^@é¸ÁÑ+ëS A”™DôÃ@ÊÇ†Otñ¯@à–zXkğËÀ$	â2pÔ@no{ğXeÏ¿r»  tr¼  bX	   _residuesr½  GABô|=w=ÍX
+   intercept_r¾  js  j¸  C–ì6½¦¼ƒÁr¿  †rÀ  RrÁ  jL  jM  ub†rÂ  eX   memoryrÃ  NjX  ‰jL  jM  ub.
